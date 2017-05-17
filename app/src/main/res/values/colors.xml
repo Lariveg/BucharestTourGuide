@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0d2027</color>
+    <color name="colorPrimaryDark">#09151b</color>
+
+    <!-- Background color for app -->
+    <color name="app_background">#fcf6fc</color>
+
+    <!-- Background list item color for pages -->
+    <color name="parks_background">#2a7b47</color>
+    <color name="museums_background">#6a342b</color>
+    <color name="restaurants_background">#5e2f8f</color>
+    <color name="diverse_background">#C62828</color>
+</resources>
