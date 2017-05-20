@@ -25,16 +25,16 @@ public class DiverseFragment extends Fragment {
 
         // Create a list of places
         final ArrayList<Place> places = new ArrayList<Place>();
-        places.add(new Place("Triumph Arch", "intersection of Șoseaua Kiseleff with Constantin Prezan, Alexandru Averescu și Alexandru Constantinescu bulevards", R.drawable.arcul_de_triumf));
-        places.add(new Place("Biserica Stavropoleos", "Strada Stavropoleos 4", R.drawable.biserica_stravrapoleos));
-        places.add(new Place("Patriarchal Cathedral", "Aleea Dealul Mitropoliei 2", R.drawable.catedrala_patriarhala));
-        places.add(new Place("Mănăstirea Radu Vodă", "Strada Radu Vodă 24", R.drawable.manastirea_radu_voda));
-        places.add(new Place("Romanian Athenaeum", "Strada Benjamin Franklin 1", R.drawable.ateneul_roman));
-        places.add(new Place("Opera Națională", "Bd. Mihail Kogălniceanu 70-72", R.drawable.opera));
-        places.add(new Place("Curtea Veche", "Strada Franceză 25", R.drawable.curtea_veche));
-        places.add(new Place("Cercul Militar National", "Strada Constantin Mile 1", R.drawable.cercul_militar_national));
-        places.add(new Place("Casa de Economii si Consemnatiuni", "Calea Victoriei 13", R.drawable.casa_de_economii));
-        places.add(new Place("Palatul Parlamentului", "Strada Izvor 2-4", R.drawable.palatul_parlamentului));
+        places.add(new Place(getString(R.string.arcul_de_triumf), getString(R.string.arcul_de_triumf_address), R.drawable.arcul_de_triumf));
+        places.add(new Place(getString(R.string.biserica_stavropoleos), getString(R.string.biserica_stavropoleos_address), R.drawable.biserica_stravrapoleos));
+        places.add(new Place(getString(R.string.patriarchal_cathedral), getString(R.string.patriarchal_cathedral_address), R.drawable.catedrala_patriarhala));
+        places.add(new Place(getString(R.string.radu_voda),getString(R.string.radu_voda_address), R.drawable.manastirea_radu_voda));
+        places.add(new Place(getString(R.string.ateneul_roman), getString(R.string.ateneul_roman_address), R.drawable.ateneul_roman));
+        places.add(new Place(getString(R.string.opera_nationala), getString(R.string.opera_nationala_address), R.drawable.opera));
+        places.add(new Place(getString(R.string.curtea_veche), getString(R.string.curtea_veche_address), R.drawable.curtea_veche));
+        places.add(new Place(getString(R.string.cercul_militar_national), getString(R.string.cercul_militar_national_address), R.drawable.cercul_militar_national));
+        places.add(new Place(getString(R.string.casa_de_economii), getString(R.string.casa_de_economii_address), R.drawable.casa_de_economii));
+        places.add(new Place(getString(R.string.palatul_parlamentului), getString(R.string.palatul_parlamentului_address), R.drawable.palatul_parlamentului));
 
         PlaceAdapter adapter = new PlaceAdapter(getActivity(), places, R.color.diverse_background);
         ListView listView = (ListView) rootView.findViewById(R.id.list);

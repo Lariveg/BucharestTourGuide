@@ -10,4 +10,100 @@
     <string name="restaurant_fragment">Food</string>
     <string name="diverse_fragment">Diverse</string>
 
+    <!-- Park name strings -->
+    <string name="cismigiu">Cișmigiu Garden</string>
+    <string name="herastrau">Herăstrău Park</string>
+    <string name="kiseleff">Kiseleff</string>
+    <string name="tineretului">Tineretului</string>
+    <string name="carol">Parcul Carol I</string>
+    <string name="moghioros">Moghioroș</string>
+    <string name="circului">Parcul Circul de Stat</string>
+    <string name="ior">Ior</string>
+    <string name="parcul_national">Parcul National</string>
+    <string name="eroilor">Parcul Eroilor Sanitari</string>
+
+    <!-- Park address strings -->
+    <string name="cismigiu_address">Bulevardul Schitu Măgureanu</string>
+    <string name="herastrau_address">Piaţa Charles De Gaulle</string>
+    <string name="kiseleff_address">Șoseaua Kiseleff</string>
+    <string name="tineretului_address">bd. Dimitrie Cantemir (metrou Tineretului)</string>
+    <string name="carol_address">Calea Şerban Vodă</string>
+    <string name="moghioros_address">Drumul Taberei</string>
+    <string name="circului_address">Aleea Circului</string>
+    <string name="ior_address">Strada Liviu Rebreanu</string>
+    <string name="parcul_national_address">Bulevardul Basarabia</string>
+    <string name="eroilor_address">Bulevardul Eroii Sanitari</string>
+
+    <!-- Museum name strings -->
+    <string name="antipa">Grigore Antipa Natural History Museum</string>
+    <string name="national_art_museum">National Art Museum</string>
+    <string name="museum_of_romanian_peasant">Museum of the Romanian Peasant</string>
+    <string name="theodor_aman">Theodor Aman Museum</string>
+    <string name="national_village_museum">National Village Museum</string>
+    <string name="national_history_museum">National History Museum</string>
+    <string name="contemporary_art_museum">National Museum of Contemporary Art</string>
+    <string name="jewish_museum">Jewish History Museum</string>
+    <string name="george_enescu">George Enescu Museum</string>
+    <string name="theodor_pallady">Theodor Pallady Museum</string>
+
+    <!-- Museum address strings -->
+    <string name="antipa_address">Șoseaua Kiseleff Nr.1</string>
+    <string name="national_art_museum_address">Calea Victoriei 49-53</string>
+    <string name="museum_of_romanian_peasant_address">Șoseaua Pavel Dimitrievici Kiseleff 3</string>
+    <string name="theodor_aman_address">Strada C. A. Rosetti 8</string>
+    <string name="national_village_museum_address">Bulevardul Kiseleff 28-30</string>
+    <string name="national_history_museum_address">Calea Victoriei 12</string>
+    <string name="contemporary_art_museum_address">a wing of the Palace of the Parliament</string>
+    <string name="jewish_museum_address">Str Mămulari 3</string>
+    <string name="george_enescu_address">Calea Victoriei 141</string>
+    <string name="theodor_pallady_address">Str. Spătarului 22</string>
+
+    <!-- Restaurants name strings -->
+    <string name="manuc">Hanu’ lui Manuc</string>
+    <string name="caru_cu_bere">Caru’ Cu Bere</string>
+    <string name="carusel">Bistro Carusel</string>
+    <string name="lacrimi_si_sfinti">Lacrimi și Sfinți</string>
+    <string name="zahana">Zahana 33</string>
+    <string name="energiea">Energiea</string>
+    <string name="the_artist">The Artist</string>
+    <string name="origo">Origo</string>
+    <string name="cremeria_emilia">Cremeria Emilia</string>
+    <string name="shift">Restaurant Cafe Shift</string>
+
+    <!-- Restaurants address strings -->
+    <string name="manuc_address">Strada Franceză 62-64</string>
+    <string name="caru_cu_bere_address">Strada Stavropoleos 5</string>
+    <string name="carusel_address">Strada Lipscani 55</string>
+    <string name="lacrimi_si_sfinti_address">Strada Sepcari 16</string>
+    <string name="zahana_address">Splaiul Unirii 162 (Palatul Odeon)</string>
+    <string name="energiea_address">Strada Brezoianu 4</string>
+    <string name="the_artist_address">Calea Victoriei 147</string>
+    <string name="origo_address">Strada Lipscani 9</string>
+    <string name="cremeria_emilia_address">trada Franceză 38-42 (Centrul Vechi)</string>
+    <string name="shift_address">Strada Eremia Grigorescu 17</string>
+
+    <!-- Diverse name strings -->
+    <string name="arcul_de_triumf">Triumph Arch</string>
+    <string name="biserica_stavropoleos">Biserica Stavropoleos</string>
+    <string name="patriarchal_cathedral">Patriarchal Cathedral</string>
+    <string name="radu_voda">Mănăstirea Radu Vodă</string>
+    <string name="ateneul_roman">Romanian Athenaeum</string>
+    <string name="opera_nationala">Opera Națională</string>
+    <string name="curtea_veche">Curtea Veche</string>
+    <string name="cercul_militar_national">Cercul Militar National</string>
+    <string name="casa_de_economii">Casa de Economii si Consemnatiuni</string>
+    <string name="palatul_parlamentului">Palatul Parlamentului</string>
+
+    <!-- Diverse address strings -->
+    <string name="arcul_de_triumf_address">intersection of Șoseaua Kiseleff with Constantin Prezan, Alexandru Averescu și Alexandru Constantinescu bulevards</string>
+    <string name="biserica_stavropoleos_address">Strada Stavropoleos 4</string>
+    <string name="patriarchal_cathedral_address">Aleea Dealul Mitropoliei 2</string>
+    <string name="radu_voda_address">Strada Radu Vodă 24</string>
+    <string name="ateneul_roman_address">Strada Benjamin Franklin 1</string>
+    <string name="opera_nationala_address">Bd. Mihail Kogălniceanu 70-72</string>
+    <string name="curtea_veche_address">Strada Franceză 25</string>
+    <string name="cercul_militar_national_address">Strada Constantin Mile 1</string>
+    <string name="casa_de_economii_address">Calea Victoriei 13</string>
+    <string name="palatul_parlamentului_address">Strada Izvor 2-4</string>
+
 </resources>
